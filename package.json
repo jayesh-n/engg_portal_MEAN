@@ -1,0 +1,22 @@
+{
+  "name": "enggportal",
+  "version": "1.0.0",
+  "description": "mongodb connector for engg portal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "enggportal",
+    "mongodb",
+    "express",
+    "mongoose"
+  ],
+  "author": "jayesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.16"
+  }
+}
